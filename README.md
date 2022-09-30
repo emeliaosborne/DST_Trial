@@ -3,14 +3,13 @@
 ## Project Group
 
 Emelia Osborne
-
 Equal Equity
 
-##Reading Order
+## Reading Order
 
 * report/
   - 01-Report.md
   
-##Description
+## Description
 3
 Trial Repository for DST
